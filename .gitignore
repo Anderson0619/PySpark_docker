@@ -1,3 +1,4 @@
 notebook/.ipynb_checkpoints/*
 notebook/metastore_db/*
 notebook/derby.log
+notebook/sql/*.parquet
